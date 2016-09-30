@@ -17,6 +17,7 @@ Rails.application.routes.draw do
   #   resources :products
   resources :places do
     resources :comments, only: :create
+    resources :photos, only: :create
   end
   # Example resource route with options:
   #   resources :products do
