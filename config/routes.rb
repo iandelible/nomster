@@ -19,6 +19,9 @@ Rails.application.routes.draw do
     resources :comments, only: :create
     resources :photos, only: :create
   end
+  resources :users, only: :show
+  
+  
   # Example resource route with options:
   #   resources :products do
   #     member do
