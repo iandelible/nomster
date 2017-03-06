@@ -2,7 +2,7 @@
 
 Nomster App
 
-A Yelp clone that integrates with Google Map API and includes features like user authentication, image uploading, user comments, address geolocation, in a responsive web application.
+A Yelp clone that integrates with Google Map API for address geolocation and includes features like user authentication, image uploading, user comments, in a responsive web application.
 
 
 Deployed with Heroku at:
